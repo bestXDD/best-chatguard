@@ -1,2 +1,2 @@
-# best-chatguard
+# best-chat-guard
 :)
